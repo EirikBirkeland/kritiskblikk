@@ -1,8 +1,10 @@
 In Norway, there is currently a single fact-checker (faktisk.no).
 
 This extension will challenge the current fact-checking hegemony.
-This tool will be available to any individual or group, regardless of their political POV.
-The idea is to provide insightful commentary on popular current discourse.
+It will be available to any individual or group, regardless of their political POV.
+
+The idea is for a variety of groups/individuals to provide high-quality curated commentary on popular current discourse.
+Commentary will be easily available on various pages people visit in the form of pop-ups and similar.
 
 Since the tool itself will merely be a framework, this is a non-partison tool.
 
@@ -10,3 +12,14 @@ The intent is to stimulate the ever-dying democracy
 and to reduce the mind-numbing monotony of mainstream narratives
 which are peddled in fanatical unison by the vast majority
 of tax-subsidized media.
+
+The target audience will be a normie who's somewhat open to having
+their views challenged, all while browsing their favorite
+mainmstream brainwashing.
+
+Technically, there will be many ways of implementing this.
+
+As a starting point, the extension will look at a lot like Dissenter.
+If technically feasible, it will go beyond that and provide
+in-line commentary, similarly to the review feature in
+common word-processing software such as LibreOffice or OpenOffice.
